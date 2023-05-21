@@ -3,3 +3,10 @@ body {
     /* background: url('./images/milky-way.jpg');  */
     background-color: antiquewhite;
 }
+
+
+.footer-center {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
