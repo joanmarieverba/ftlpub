@@ -21,3 +21,17 @@ body {
     top: 0;
 
 }
+
+
+
+.panel>.panel-info {
+    background-image: none;
+    background-color: #20315A;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+
