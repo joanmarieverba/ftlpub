@@ -11,7 +11,10 @@ body {
     text-align: center;
 }
 
-
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
 
 .navbar-header>.logo {
     height: 50px;
