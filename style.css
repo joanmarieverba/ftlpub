@@ -5,6 +5,11 @@ body {
 }
 
 
+.cover {
+    width: 150px;
+    height: 225px;
+}
+
 .footer-center {
     color: white;
     font-weight: bold;
