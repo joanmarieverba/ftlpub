@@ -6,8 +6,10 @@ body {
 
 
 .cover {
-    width: 150px;
-    height: 225px;
+    /* width: 150px;
+    height: 225px; */
+        width: 8em;
+            height: 12em;
 }
 
 .footer-center {
