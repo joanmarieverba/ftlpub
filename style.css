@@ -29,6 +29,20 @@ body {
     text-align: center;
 }
 
+.innerbox {
+    margin-left: 5vw;
+}
+
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 18vw;
+    margin-right: 5vw;
+    position: relative;
+}
+
 .navbar {
     border-radius: 0;
     margin-bottom: 0;
