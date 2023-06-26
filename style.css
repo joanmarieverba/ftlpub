@@ -43,6 +43,37 @@ div.item {
     position: relative;
 }
 
+
+
+.leftbox {
+    display: inline-block;
+    width: 650px;
+    border: 1px solid #000;
+    text-align: left;
+    background-color: #ffffff;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 40px;
+    float: left;
+}
+
+.leftbox img {
+    float: left;
+    margin: 15px;
+}
+
+.leftbox h1 {
+    margin-left: 20px;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
 .lmargin {
     margin-left: 4vw;
 }
