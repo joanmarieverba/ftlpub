@@ -8,10 +8,10 @@ body {
 .caption {
     background-color: #4aaaa5;
     height: 30px;
-    margin-top: 115px;
+    margin-top: 15px;
     margin-left: 15px;
     padding-left: 30px;
-    padding-top: 15px;
+    padding-top: 5px;
     padding-right: 20px;
     text-align: center;
     color: white;
@@ -33,8 +33,8 @@ body {
 }
 
 .cover1 {
-    width: 150px;
-    height: 225px;
+    width: 12em;
+    height: 18em;
 }
 
 .footer-center {
@@ -62,33 +62,6 @@ div.item {
     margin-right: 5vw;
     position: relative;
 }
-
-
-
-.leftbox {
-    display: inline-block;
-    width: 650px;
-    border: 1px solid #000;
-    text-align: left;
-    background-color: #ffffff;
-    margin-left: 100px;
-    margin-top: 20px;
-    margin-right: 40px;
-    float: left;
-}
-
-.leftbox img {
-    float: left;
-    margin: 15px;
-}
-
-.leftbox h1 {
-    margin-left: 20px;
-    font-size: 24px;
-    margin-bottom: 15px;
-}
-
-
 
 
 
