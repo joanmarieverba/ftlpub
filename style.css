@@ -5,6 +5,26 @@ body {
 }
 
 
+.caption {
+    background-color: #4aaaa5;
+    height: 30px;
+    margin-top: 115px;
+    margin-left: 15px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-right: 20px;
+    text-align: center;
+    color: white;
+    width: 200px;
+    position: absolute;
+    z-index: 100;
+}
+
+
+
+
+
+
 .cover {
     /* width: 150px;
     height: 225px; */
