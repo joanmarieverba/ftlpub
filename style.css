@@ -37,6 +37,16 @@ body {
     height: 18em;
 }
 
+
+@media screen and (max-width: 980px) {
+
+    .cover1 {
+        width: 10em;
+        height: 14em;
+    }
+
+}
+
 @media screen and (max-width: 768px) {
 
     .cover1 {
@@ -48,10 +58,7 @@ body {
 }
 
 
-@media screen and (max-width: 980px) {
 
-    
-}
 
 .footer-center {
     color: white;
