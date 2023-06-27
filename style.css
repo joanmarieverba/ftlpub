@@ -6,7 +6,7 @@ body {
 
 
 .caption {
-    background-color: #4aaaa5;
+    background-color: #20315A;
     height: 30px;
     margin-top: 15px;
     margin-left: 0px;
@@ -49,11 +49,27 @@ body {
 
 @media screen and (max-width: 768px) {
 
+    .caption {
+        background-color: #20315A;
+        height: 30px;
+        margin-top: 15px;
+        margin-left: 0px;
+        padding-left: 3px;
+        padding-top: 5px;
+        padding-right: 20px;
+        text-align: center;
+        color: white;
+        width: 6em;
+        position: absolute;
+        z-index: 100;
+    }
+
     .cover1 {
-            width: 8em;
-            height: 9em;
-            padding-right: 2em;
-        }
+        width: 8em;
+        height: 9em;
+        padding-right: 2em;
+    }
+
 
 }
 
