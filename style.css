@@ -4,7 +4,6 @@ body {
     background-color: antiquewhite;
 }
 
-
 .caption {
     background-color: #20315A;
     border: 1px solid white;
@@ -20,11 +19,6 @@ body {
     position: absolute;
     z-index: 100;
 }
-
-
-
-
-
 
 .cover {
     /* width: 150px;
@@ -45,6 +39,7 @@ body {
     .cover1 {
         width: 10em;
         height: 14em;
+        border: 1px solid white;
     }
 
 }
