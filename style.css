@@ -71,8 +71,6 @@ body {
 
     }
 
-
-
 }
 
 
@@ -102,10 +100,6 @@ div.item {
     position: relative;
 }
 
-
-
-
-
 .lmargin {
     margin-left: 4vw;
 }
@@ -124,8 +118,6 @@ div.item {
 
 }
 
-
-
 .panel>.panel-info {
     background-image: none;
     background-color: #20315A;
@@ -141,4 +133,6 @@ div.item {
     height: 150px;
 }
 
-
+.topmargin {
+    margin-top: 2vw;
+}
