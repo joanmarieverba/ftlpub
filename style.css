@@ -33,6 +33,11 @@ body {
     border: 1px solid white;
 }
 
+.square {
+    width: 150px;
+    height: 150px;
+}
+
 
 @media screen and (max-width: 980px) {
 
@@ -69,6 +74,11 @@ body {
         padding-right: 2em;
         border: 0px solid white;
 
+    }
+
+    .square {
+        width: 6em;
+        height: 6em;
     }
 
 }
@@ -128,10 +138,7 @@ div.item {
     text-align: center;
 }
 
-.square {
-    width: 150px;
-    height: 150px;
-}
+
 
 .topmargin {
     margin-top: 2vw;
