@@ -104,6 +104,10 @@ div.item {
     margin-top: 2vw;
 }
 
+ul {
+    list-style-type: none;
+}
+
 
 @media screen and (max-width: 980px) {
 
