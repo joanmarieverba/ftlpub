@@ -37,7 +37,9 @@ body {
     text-align: center
 }
 
-
+.font-color {
+    color: white;
+}
 
 .footer-center {
     color: white;
