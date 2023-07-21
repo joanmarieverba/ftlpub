@@ -20,6 +20,10 @@ body {
     z-index: 100;
 }
 
+.center {
+    text-align: center
+}
+
 .cover {
     /* width: 150px;
     height: 225px; */
@@ -33,9 +37,7 @@ body {
     border: 1px solid white;
 }
 
-.center {
-    text-align: center
-}
+
 
 .font-color {
     color: white;
