@@ -107,6 +107,13 @@ div.item {
     height: 150px;
 }
 
+.reviews {
+    color: midnightblue;
+    font-family: 'Patua One', cursive;
+    font-size: 16px;
+    line-height: 1.0;
+}
+
 .square {
     width: 150px;
     height: 150px;
