@@ -60,6 +60,15 @@ body {
     text-align: center;
 }
 
+
+.front-text {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+
 .innerbox {
     margin-left: 5vw;
 }
